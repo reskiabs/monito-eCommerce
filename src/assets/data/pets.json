@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "code": "MO231",
+    "name": "Pomeranian White",
+    "gender": "Male",
+    "age": "02 Months",
+    "price": "6.900.000"
+  },
+  {
+    "id": "2",
+    "code": "MO502",
+    "name": "Poddle Tiny Yellow",
+    "gender": "Female",
+    "age": "02 Months",
+    "price": "3.900.000"
+  },
+  {
+    "id": "3",
+    "code": "MO102",
+    "name": "Poddle Tiny Sepia",
+    "gender": "Male",
+    "age": "02 Months",
+    "price": "4.000.000"
+  },
+  {
+    "id": "4",
+    "code": "MO512",
+    "name": "Alaskan Malamute Grey",
+    "gender": "Male",
+    "age": "03 Months",
+    "price": "8.900.000"
+  },
+  {
+    "id": "5",
+    "code": "MO231",
+    "name": "Pembroke Corgi Cream",
+    "gender": "Male",
+    "age": "03 Months",
+    "price": "7.900.000"
+  },
+  {
+    "id": "6",
+    "code": "MO502",
+    "name": "Pembroke Corgi Tricolor",
+    "gender": "Female",
+    "age": "02 Months",
+    "price": "6.900.000"
+  },
+  {
+    "id": "7",
+    "code": "MO102",
+    "name": "Pomeranian Grey",
+    "gender": "Female",
+    "age": "02 Months",
+    "price": "6.500.000"
+  },
+  {
+    "id": "8",
+    "code": "MO512",
+    "name": "Poddle Tiny Dairy Cow",
+    "gender": "Male",
+    "age": "03 Months",
+    "price": "5.000.000"
+  }
+]
